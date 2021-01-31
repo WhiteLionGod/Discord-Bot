@@ -1,3 +1,5 @@
+#Please do not edit this code. This is a referinces code to help you build your bot. After that, Upload you file and make sure the file name is the same name as you bot name!
+
 import discord
 import os
 import requests
